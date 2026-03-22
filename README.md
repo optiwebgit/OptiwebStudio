@@ -19,6 +19,10 @@ Pravilno **davanje infuzije** u kućnim uslovima podrazumeva:
 
 Projekat na kojem trenutno radim fokusiran je na optimizaciju logistike za medicinske sestre na terenu, kako bi usluge poput primanja terapije bile dostupne svima u najkraćem mogućem roku.
 
+## O Projektu "Avalska Oaza"
+
+[Avalska Oaza - Privatni starački dom](https://avalskaoaza.rs) - Konsultacije i smeštaj u prirodi.
+
 ---
 📫 **Kontakt i saradnja:**
 Ako vas zanima više o medicinskim protokolima ili želite da vidite kako optimizujemo terenski rad, posetite našu zvaničnu stranicu.
